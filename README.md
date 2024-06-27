@@ -1,3 +1,4 @@
+![MasterHead](https://cdn.sanity.io/images/tlr8oxjg/production/5c3120359be5c4f225cd7b817811217041b759ab-1192x668.png?w=3840&q=100&fit=clip&auto=format)
 # 💫 About Me:
 🔭 I’m currently working on web development<br>🤝You can contact me ds6008@srmist.edu.in<br>🌱 I’m currently learning SQL<br>💬 Ask me about Web development<br>⚡ Fun fact I'm not funny
 
